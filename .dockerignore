@@ -1,0 +1,5 @@
+/vendor
+/storage/logs/*
+/storage/temp/*
+/.git
+/docker-compose.yml
